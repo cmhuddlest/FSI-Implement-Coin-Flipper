@@ -21,6 +21,17 @@ h1 {
     padding: 25px;
 }
 
+.buttons{
+    padding: 20px;
+    border: 1px solid black;
+
+}
+
+.message{
+
+    color: darkorange;
+}
+
 /* Controls and Message Styles */
 .controls {
     padding: 20px;
